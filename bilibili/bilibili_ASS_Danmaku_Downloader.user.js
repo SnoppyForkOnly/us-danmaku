@@ -24,8 +24,8 @@
 
 // 设置项
 var config = {
-  'playResX': 1920,           // 屏幕分辨率宽（像素）
-  'playResY': 1080,           // 屏幕分辨率高（像素）
+  'playResX': 2240,           // 屏幕分辨率宽（像素）
+  'playResY': 1680,           // 屏幕分辨率高（像素）
   'fontlist': [              // 字形（会自动选择最前面一个可用的）
     'Microsoft YaHei UI',
     'Microsoft YaHei',
@@ -33,7 +33,7 @@ var config = {
     'STHeitiSC',
     '黑体',
   ],
-  'font_size': 1.0,          // 字号（比例）
+  'font_size': 4.0,          // 字号（比例）
   'r2ltime': 8,              // 右到左弹幕持续时间（秒）
   'fixtime': 4,              // 固定弹幕持续时间（秒）
   'opacity': 0.6,            // 不透明度（比例）
